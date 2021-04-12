@@ -1,2 +1,5 @@
 # star_gan_final_year
-HERE WE WILL TRY AND RECREAT THE SAME RESULT AS GITHUB HOSTED REPO 
+this is our final year project 
+
+we will try to implement stargan vc . as closely as possible in the paper 
+
